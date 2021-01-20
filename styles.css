@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+section {
+  height: 80vh;
+}
+section:nth-child(1)
+{
+  background: lightblue;
+}
+section:nth-child(2)
+{
+  background: lightgreen;
+}
+section:nth-child(3)
+{
+  background: purple;
+}
+section:nth-child(4)
+{
+  background: Green;
+}
